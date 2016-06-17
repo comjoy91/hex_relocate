@@ -1,0 +1,1972 @@
+<?xml version='1.0' encoding='utf-8'?> 
+ <root> 
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>종로구</name>
+	<code>1</code>
+	<gridX>6</gridX>
+	<gridY>3</gridY>
+	<popul>169257</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>중구</name>
+	<code>2</code>
+	<gridX>7</gridX>
+	<gridY>4</gridY>
+	<popul>136063</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>용산구</name>
+	<code>3</code>
+	<gridX>7</gridX>
+	<gridY>5</gridY>
+	<popul>248035</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>성동구 갑</name>
+	<code>4</code>
+	<gridX>8</gridX>
+	<gridY>6</gridY>
+	<popul>160370</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>성동구 을</name>
+	<code>5</code>
+	<gridX>9</gridX>
+	<gridY>7</gridY>
+	<popul>140730</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>광진구 갑</name>
+	<code>6</code>
+	<gridX>10</gridX>
+	<gridY>6</gridY>
+	<popul>186278</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>광진구 을</name>
+	<code>7</code>
+	<gridX>11</gridX>
+	<gridY>6</gridY>
+	<popul>186328</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>동대문구 갑</name>
+	<code>8</code>
+	<gridX>8</gridX>
+	<gridY>5</gridY>
+	<popul>195036</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>동대문구 을</name>
+	<code>9</code>
+	<gridX>9</gridX>
+	<gridY>6</gridY>
+	<popul>171783</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>중랑구 갑</name>
+	<code>10</code>
+	<gridX>9</gridX>
+	<gridY>5</gridY>
+	<popul>196621</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>중랑구 을</name>
+	<code>11</code>
+	<gridX>10</gridX>
+	<gridY>5</gridY>
+	<popul>226445</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>성북구 갑</name>
+	<code>12</code>
+	<gridX>8</gridX>
+	<gridY>4</gridY>
+	<popul>247244</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>성북구 을</name>
+	<code>13</code>
+	<gridX>9</gridX>
+	<gridY>4</gridY>
+	<popul>238769</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>강북구 갑</name>
+	<code>14</code>
+	<gridX>7</gridX>
+	<gridY>3</gridY>
+	<popul>167608</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>강북구 을</name>
+	<code>15</code>
+	<gridX>7</gridX>
+	<gridY>2</gridY>
+	<popul>178944</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>도봉구 갑</name>
+	<code>16</code>
+	<gridX>8</gridX>
+	<gridY>3</gridY>
+	<popul>176518</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>도봉구 을</name>
+	<code>17</code>
+	<gridX>8</gridX>
+	<gridY>2</gridY>
+	<popul>188685</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>노원구 갑</name>
+	<code>18</code>
+	<gridX>10</gridX>
+	<gridY>4</gridY>
+	<popul>177906</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>노원구 을</name>
+	<code>19</code>
+	<gridX>9</gridX>
+	<gridY>3</gridY>
+	<popul>220773</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>노원구 병</name>
+	<code>20</code>
+	<gridX>9</gridX>
+	<gridY>2</gridY>
+	<popul>205067</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>은평구 갑</name>
+	<code>21</code>
+	<gridX>5</gridX>
+	<gridY>2</gridY>
+	<popul>209579</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>은평구 을</name>
+	<code>22</code>
+	<gridX>6</gridX>
+	<gridY>2</gridY>
+	<popul>289471</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>서대문구 갑</name>
+	<code>23</code>
+	<gridX>6</gridX>
+	<gridY>4</gridY>
+	<popul>156886</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>서대문구 을</name>
+	<code>24</code>
+	<gridX>5</gridX>
+	<gridY>3</gridY>
+	<popul>157575</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>마포구 갑</name>
+	<code>25</code>
+	<gridX>5</gridX>
+	<gridY>4</gridY>
+	<popul>154709</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>마포구 을</name>
+	<code>26</code>
+	<gridX>4</gridX>
+	<gridY>3</gridY>
+	<popul>235724</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>양천구 갑</name>
+	<code>27</code>
+	<gridX>5</gridX>
+	<gridY>6</gridY>
+	<popul>267971</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>양천구 을</name>
+	<code>28</code>
+	<gridX>4</gridX>
+	<gridY>5</gridY>
+	<popul>232691</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>강서구 갑</name>
+	<code>29</code>
+	<gridX>5</gridX>
+	<gridY>5</gridY>
+	<popul>303867</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>강서구 을</name>
+	<code>30</code>
+	<gridX>4</gridX>
+	<gridY>4</gridY>
+	<popul>265919</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>구로구 갑</name>
+	<code>31</code>
+	<gridX>6</gridX>
+	<gridY>7</gridY>
+	<popul>234401</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>구로구 을</name>
+	<code>32</code>
+	<gridX>5</gridX>
+	<gridY>7</gridY>
+	<popul>194585</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>금천구</name>
+	<code>33</code>
+	<gridX>6</gridX>
+	<gridY>8</gridY>
+	<popul>244311</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>영등포구 갑</name>
+	<code>34</code>
+	<gridX>6</gridX>
+	<gridY>5</gridY>
+	<popul>208662</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>영등포구 을</name>
+	<code>35</code>
+	<gridX>6</gridX>
+	<gridY>6</gridY>
+	<popul>189200</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>동작구 갑</name>
+	<code>36</code>
+	<gridX>7</gridX>
+	<gridY>6</gridY>
+	<popul>219793</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>동작구 을</name>
+	<code>37</code>
+	<gridX>8</gridX>
+	<gridY>7</gridY>
+	<popul>183279</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>관악구 갑</name>
+	<code>38</code>
+	<gridX>7</gridX>
+	<gridY>7</gridY>
+	<popul>277984</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>관악구 을</name>
+	<code>39</code>
+	<gridX>7</gridX>
+	<gridY>8</gridY>
+	<popul>249547</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>서초구 갑</name>
+	<code>40</code>
+	<gridX>8</gridX>
+	<gridY>8</gridY>
+	<popul>218738</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>서초구 을</name>
+	<code>41</code>
+	<gridX>8</gridX>
+	<gridY>9</gridY>
+	<popul>220481</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>강남구 갑</name>
+	<code>42</code>
+	<gridX>9</gridX>
+	<gridY>8</gridY>
+	<popul>309776</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>강남구 을</name>
+	<code>43</code>
+	<gridX>9</gridX>
+	<gridY>9</gridY>
+	<popul>259151</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>송파구 갑</name>
+	<code>44</code>
+	<gridX>10</gridX>
+	<gridY>7</gridY>
+	<popul>210627</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>송파구 을</name>
+	<code>45</code>
+	<gridX>10</gridX>
+	<gridY>8</gridY>
+	<popul>217815</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>송파구 병</name>
+	<code>46</code>
+	<gridX>10</gridX>
+	<gridY>9</gridY>
+	<popul>256431</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>강동구 갑</name>
+	<code>47</code>
+	<gridX>11</gridX>
+	<gridY>7</gridY>
+	<popul>275151</popul>
+</consti>
+<consti>
+	<upperLocal>서울</upperLocal>
+	<name>강동구 을</name>
+	<code>48</code>
+	<gridX>11</gridX>
+	<gridY>8</gridY>
+	<popul>218806</popul>
+</consti>
+<consti>
+	<upperLocal>부산</upperLocal>
+	<name>중구-동구</name>
+	<code>49</code>
+	<gridX>12</gridX>
+	<gridY>20</gridY>
+	<popul>148789</popul>
+</consti>
+<consti>
+	<upperLocal>부산</upperLocal>
+	<name>서구</name>
+	<code>50</code>
+	<gridX>12</gridX>
+	<gridY>19</gridY>
+	<popul>123402</popul>
+</consti>
+<consti>
+	<upperLocal>부산</upperLocal>
+	<name>영도구</name>
+	<code>51</code>
+	<gridX>13</gridX>
+	<gridY>21</gridY>
+	<popul>142549</popul>
+</consti>
+<consti>
+	<upperLocal>부산</upperLocal>
+	<name>부산진구 갑</name>
+	<code>52</code>
+	<gridX>12</gridX>
+	<gridY>18</gridY>
+	<popul>205817</popul>
+</consti>
+<consti>
+	<upperLocal>부산</upperLocal>
+	<name>부산진구 을</name>
+	<code>53</code>
+	<gridX>11</gridX>
+	<gridY>18</gridY>
+	<popul>189686</popul>
+</consti>
+<consti>
+	<upperLocal>부산</upperLocal>
+	<name>동래구</name>
+	<code>54</code>
+	<gridX>12</gridX>
+	<gridY>17</gridY>
+	<popul>282829</popul>
+</consti>
+<consti>
+	<upperLocal>부산</upperLocal>
+	<name>남구 갑</name>
+	<code>55</code>
+	<gridX>13</gridX>
+	<gridY>19</gridY>
+	<popul>146426</popul>
+</consti>
+<consti>
+	<upperLocal>부산</upperLocal>
+	<name>남구 을</name>
+	<code>56</code>
+	<gridX>13</gridX>
+	<gridY>20</gridY>
+	<popul>148124</popul>
+</consti>
+<consti>
+	<upperLocal>부산</upperLocal>
+	<name>북구-강서구 갑</name>
+	<code>57</code>
+	<gridX>10</gridX>
+	<gridY>18</gridY>
+	<popul>164773</popul>
+</consti>
+<consti>
+	<upperLocal>부산</upperLocal>
+	<name>북구-강서구 을</name>
+	<code>58</code>
+	<gridX>9</gridX>
+	<gridY>18</gridY>
+	<popul>207855</popul>
+</consti>
+<consti>
+	<upperLocal>부산</upperLocal>
+	<name>해운대구-기장군 갑</name>
+	<code>59</code>
+	<gridX>14</gridX>
+	<gridY>19</gridY>
+	<popul>306144</popul>
+</consti>
+<consti>
+	<upperLocal>부산</upperLocal>
+	<name>해운대구-기장군 을</name>
+	<code>60</code>
+	<gridX>14</gridX>
+	<gridY>18</gridY>
+	<popul>231190</popul>
+</consti>
+<consti>
+	<upperLocal>부산</upperLocal>
+	<name>사하구 갑</name>
+	<code>61</code>
+	<gridX>10</gridX>
+	<gridY>19</gridY>
+	<popul>153721</popul>
+</consti>
+<consti>
+	<upperLocal>부산</upperLocal>
+	<name>사하구 을</name>
+	<code>62</code>
+	<gridX>11</gridX>
+	<gridY>20</gridY>
+	<popul>201187</popul>
+</consti>
+<consti>
+	<upperLocal>부산</upperLocal>
+	<name>금정구</name>
+	<code>63</code>
+	<gridX>13</gridX>
+	<gridY>17</gridY>
+	<popul>254459</popul>
+</consti>
+<consti>
+	<upperLocal>부산</upperLocal>
+	<name>연제구</name>
+	<code>64</code>
+	<gridX>13</gridX>
+	<gridY>18</gridY>
+	<popul>213143</popul>
+</consti>
+<consti>
+	<upperLocal>부산</upperLocal>
+	<name>수영구</name>
+	<code>65</code>
+	<gridX>14</gridX>
+	<gridY>20</gridY>
+	<popul>176441</popul>
+</consti>
+<consti>
+	<upperLocal>부산</upperLocal>
+	<name>사상구</name>
+	<code>66</code>
+	<gridX>11</gridX>
+	<gridY>19</gridY>
+	<popul>254320</popul>
+</consti>
+<consti>
+	<upperLocal>대구</upperLocal>
+	<name>중구-남구</name>
+	<code>67</code>
+	<gridX>12</gridX>
+	<gridY>14</gridY>
+	<popul>245284</popul>
+</consti>
+<consti>
+	<upperLocal>대구</upperLocal>
+	<name>동구 갑</name>
+	<code>68</code>
+	<gridX>13</gridX>
+	<gridY>14</gridY>
+	<popul>137016</popul>
+</consti>
+<consti>
+	<upperLocal>대구</upperLocal>
+	<name>동구 을</name>
+	<code>69</code>
+	<gridX>13</gridX>
+	<gridY>13</gridY>
+	<popul>204374</popul>
+</consti>
+<consti>
+	<upperLocal>대구</upperLocal>
+	<name>서구</name>
+	<code>70</code>
+	<gridX>11</gridX>
+	<gridY>13</gridY>
+	<popul>221961</popul>
+</consti>
+<consti>
+	<upperLocal>대구</upperLocal>
+	<name>북구 갑</name>
+	<code>71</code>
+	<gridX>12</gridX>
+	<gridY>13</gridY>
+	<popul>149527</popul>
+</consti>
+<consti>
+	<upperLocal>대구</upperLocal>
+	<name>북구 을</name>
+	<code>72</code>
+	<gridX>12</gridX>
+	<gridY>12</gridY>
+	<popul>301456</popul>
+</consti>
+<consti>
+	<upperLocal>대구</upperLocal>
+	<name>수성구 갑</name>
+	<code>73</code>
+	<gridX>13</gridX>
+	<gridY>15</gridY>
+	<popul>268071</popul>
+</consti>
+<consti>
+	<upperLocal>대구</upperLocal>
+	<name>수성구 을</name>
+	<code>74</code>
+	<gridX>12</gridX>
+	<gridY>15</gridY>
+	<popul>193263</popul>
+</consti>
+<consti>
+	<upperLocal>대구</upperLocal>
+	<name>달서구 갑</name>
+	<code>75</code>
+	<gridX>10</gridX>
+	<gridY>14</gridY>
+	<popul>192700</popul>
+</consti>
+<consti>
+	<upperLocal>대구</upperLocal>
+	<name>달서구 을</name>
+	<code>76</code>
+	<gridX>11</gridX>
+	<gridY>15</gridY>
+	<popul>243457</popul>
+</consti>
+<consti>
+	<upperLocal>대구</upperLocal>
+	<name>달서구 병</name>
+	<code>77</code>
+	<gridX>11</gridX>
+	<gridY>14</gridY>
+	<popul>170454</popul>
+</consti>
+<consti>
+	<upperLocal>대구</upperLocal>
+	<name>달성군</name>
+	<code>78</code>
+	<gridX>10</gridX>
+	<gridY>15</gridY>
+	<popul>181637</popul>
+</consti>
+<consti>
+	<upperLocal>인천</upperLocal>
+	<name>중구-동구-옹진군</name>
+	<code>79</code>
+	<gridX>1</gridX>
+	<gridY>1</gridY>
+	<popul>191730</popul>
+</consti>
+<consti>
+	<upperLocal>인천</upperLocal>
+	<name>남구 갑</name>
+	<code>80</code>
+	<gridX>2</gridX>
+	<gridY>1</gridY>
+	<popul>202298</popul>
+</consti>
+<consti>
+	<upperLocal>인천</upperLocal>
+	<name>남구 을</name>
+	<code>81</code>
+	<gridX>2</gridX>
+	<gridY>2</gridY>
+	<popul>215996</popul>
+</consti>
+<consti>
+	<upperLocal>인천</upperLocal>
+	<name>연수구</name>
+	<code>82</code>
+	<gridX>2</gridX>
+	<gridY>3</gridY>
+	<popul>289171</popul>
+</consti>
+<consti>
+	<upperLocal>인천</upperLocal>
+	<name>남동구 갑</name>
+	<code>83</code>
+	<gridX>3</gridX>
+	<gridY>5</gridY>
+	<popul>305718</popul>
+</consti>
+<consti>
+	<upperLocal>인천</upperLocal>
+	<name>남동구 을</name>
+	<code>84</code>
+	<gridX>2</gridX>
+	<gridY>4</gridY>
+	<popul>191878</popul>
+</consti>
+<consti>
+	<upperLocal>인천</upperLocal>
+	<name>부평구 갑</name>
+	<code>85</code>
+	<gridX>3</gridX>
+	<gridY>4</gridY>
+	<popul>275810</popul>
+</consti>
+<consti>
+	<upperLocal>인천</upperLocal>
+	<name>부평구 을</name>
+	<code>86</code>
+	<gridX>3</gridX>
+	<gridY>3</gridY>
+	<popul>285563</popul>
+</consti>
+<consti>
+	<upperLocal>인천</upperLocal>
+	<name>계양구 갑</name>
+	<code>87</code>
+	<gridX>3</gridX>
+	<gridY>2</gridY>
+	<popul>167845</popul>
+</consti>
+<consti>
+	<upperLocal>인천</upperLocal>
+	<name>계양구 을</name>
+	<code>88</code>
+	<gridX>3</gridX>
+	<gridY>1</gridY>
+	<popul>176743</popul>
+</consti>
+<consti>
+	<upperLocal>인천</upperLocal>
+	<name>서구-강화군 갑</name>
+	<code>89</code>
+	<gridX>2</gridX>
+	<gridY>0</gridY>
+	<popul>306291</popul>
+</consti>
+<consti>
+	<upperLocal>인천</upperLocal>
+	<name>서구-강화군 을</name>
+	<code>90</code>
+	<gridX>1</gridX>
+	<gridY>0</gridY>
+	<popul>204306</popul>
+</consti>
+<consti>
+	<upperLocal>광주</upperLocal>
+	<name>동구</name>
+	<code>91</code>
+	<gridX>5</gridX>
+	<gridY>18</gridY>
+	<popul>106983</popul>
+</consti>
+<consti>
+	<upperLocal>광주</upperLocal>
+	<name>서구 갑</name>
+	<code>92</code>
+	<gridX>3</gridX>
+	<gridY>16</gridY>
+	<popul>153353</popul>
+</consti>
+<consti>
+	<upperLocal>광주</upperLocal>
+	<name>서구 을</name>
+	<code>93</code>
+	<gridX>3</gridX>
+	<gridY>17</gridY>
+	<popul>164914</popul>
+</consti>
+<consti>
+	<upperLocal>광주</upperLocal>
+	<name>남구</name>
+	<code>94</code>
+	<gridX>4</gridX>
+	<gridY>18</gridY>
+	<popul>218982</popul>
+</consti>
+<consti>
+	<upperLocal>광주</upperLocal>
+	<name>북구 갑</name>
+	<code>95</code>
+	<gridX>4</gridX>
+	<gridY>17</gridY>
+	<popul>162132</popul>
+</consti>
+<consti>
+	<upperLocal>광주</upperLocal>
+	<name>북구 을</name>
+	<code>96</code>
+	<gridX>5</gridX>
+	<gridY>17</gridY>
+	<popul>282637</popul>
+</consti>
+<consti>
+	<upperLocal>광주</upperLocal>
+	<name>광산구 갑</name>
+	<code>97</code>
+	<gridX>2</gridX>
+	<gridY>17</gridY>
+	<popul>170174</popul>
+</consti>
+<consti>
+	<upperLocal>광주</upperLocal>
+	<name>광산구 을</name>
+	<code>98</code>
+	<gridX>2</gridX>
+	<gridY>16</gridY>
+	<popul>208276</popul>
+</consti>
+<consti>
+	<upperLocal>대전</upperLocal>
+	<name>동구</name>
+	<code>99</code>
+	<gridX>6</gridX>
+	<gridY>14</gridY>
+	<popul>252924</popul>
+</consti>
+<consti>
+	<upperLocal>대전</upperLocal>
+	<name>중구</name>
+	<code>100</code>
+	<gridX>5</gridX>
+	<gridY>13</gridY>
+	<popul>264879</popul>
+</consti>
+<consti>
+	<upperLocal>대전</upperLocal>
+	<name>서구 갑</name>
+	<code>101</code>
+	<gridX>5</gridX>
+	<gridY>14</gridY>
+	<popul>241775</popul>
+</consti>
+<consti>
+	<upperLocal>대전</upperLocal>
+	<name>서구 을</name>
+	<code>102</code>
+	<gridX>4</gridX>
+	<gridY>13</gridY>
+	<popul>255952</popul>
+</consti>
+<consti>
+	<upperLocal>대전</upperLocal>
+	<name>유성구</name>
+	<code>103</code>
+	<gridX>4</gridX>
+	<gridY>12</gridY>
+	<popul>299326</popul>
+</consti>
+<consti>
+	<upperLocal>대전</upperLocal>
+	<name>대덕구</name>
+	<code>104</code>
+	<gridX>5</gridX>
+	<gridY>12</gridY>
+	<popul>205615</popul>
+</consti>
+<consti>
+	<upperLocal>울산</upperLocal>
+	<name>중구</name>
+	<code>105</code>
+	<gridX>14</gridX>
+	<gridY>16</gridY>
+	<popul>232750</popul>
+</consti>
+<consti>
+	<upperLocal>울산</upperLocal>
+	<name>남구 갑</name>
+	<code>106</code>
+	<gridX>14</gridX>
+	<gridY>17</gridY>
+	<popul>181637</popul>
+</consti>
+<consti>
+	<upperLocal>울산</upperLocal>
+	<name>남구 을</name>
+	<code>107</code>
+	<gridX>15</gridX>
+	<gridY>18</gridY>
+	<popul>162311</popul>
+</consti>
+<consti>
+	<upperLocal>울산</upperLocal>
+	<name>동구</name>
+	<code>108</code>
+	<gridX>15</gridX>
+	<gridY>17</gridY>
+	<popul>173051</popul>
+</consti>
+<consti>
+	<upperLocal>울산</upperLocal>
+	<name>북구</name>
+	<code>109</code>
+	<gridX>15</gridX>
+	<gridY>16</gridY>
+	<popul>182891</popul>
+</consti>
+<consti>
+	<upperLocal>울산</upperLocal>
+	<name>울주군</name>
+	<code>110</code>
+	<gridX>13</gridX>
+	<gridY>16</gridY>
+	<popul>205361</popul>
+</consti>
+<consti>
+	<upperLocal>세종</upperLocal>
+	<name>세종특별자치시</name>
+	<code>111</code>
+	<gridX>3</gridX>
+	<gridY>11</gridY>
+	<popul>99569</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>수원시 갑</name>
+	<code>112</code>
+	<gridX>9</gridX>
+	<gridY>11</gridY>
+	<popul>292023</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>수원시 을</name>
+	<code>113</code>
+	<gridX>10</gridX>
+	<gridY>11</gridY>
+	<popul>285964</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>수원시 병</name>
+	<code>114</code>
+	<gridX>10</gridX>
+	<gridY>12</gridY>
+	<popul>251566</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>수원시 정</name>
+	<code>115</code>
+	<gridX>11</gridX>
+	<gridY>12</gridY>
+	<popul>274119</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>성남시 수정구</name>
+	<code>116</code>
+	<gridX>11</gridX>
+	<gridY>9</gridY>
+	<popul>235056</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>성남시 중원구</name>
+	<code>117</code>
+	<gridX>12</gridX>
+	<gridY>8</gridY>
+	<popul>254924</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>성남시 분당구 갑</name>
+	<code>118</code>
+	<gridX>12</gridX>
+	<gridY>9</gridY>
+	<popul>277920</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>성남시 분당구 을</name>
+	<code>119</code>
+	<gridX>13</gridX>
+	<gridY>9</gridY>
+	<popul>214417</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>의정부시 갑</name>
+	<code>120</code>
+	<gridX>9</gridX>
+	<gridY>1</gridY>
+	<popul>207157</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>의정부시 을</name>
+	<code>121</code>
+	<gridX>10</gridX>
+	<gridY>2</gridY>
+	<popul>223413</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>안양시 만안구</name>
+	<code>122</code>
+	<gridX>7</gridX>
+	<gridY>9</gridY>
+	<popul>260472</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>안양시 동안구 갑</name>
+	<code>123</code>
+	<gridX>9</gridX>
+	<gridY>10</gridY>
+	<popul>175308</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>안양시 동안구 을</name>
+	<code>124</code>
+	<gridX>8</gridX>
+	<gridY>10</gridY>
+	<popul>178671</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>부천시 원미구 갑</name>
+	<code>125</code>
+	<gridX>3</gridX>
+	<gridY>6</gridY>
+	<popul>174744</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>부천시 원미구 을</name>
+	<code>126</code>
+	<gridX>4</gridX>
+	<gridY>7</gridY>
+	<popul>272849</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>부천시 소사구</name>
+	<code>127</code>
+	<gridX>3</gridX>
+	<gridY>7</gridY>
+	<popul>232009</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>부천시 오정구</name>
+	<code>128</code>
+	<gridX>4</gridX>
+	<gridY>6</gridY>
+	<popul>193657</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>광명시 갑</name>
+	<code>129</code>
+	<gridX>5</gridX>
+	<gridY>8</gridY>
+	<popul>165790</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>광명시 을</name>
+	<code>130</code>
+	<gridX>6</gridX>
+	<gridY>9</gridY>
+	<popul>189977</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>평택시 갑</name>
+	<code>131</code>
+	<gridX>7</gridX>
+	<gridY>11</gridY>
+	<popul>185693</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>평택시 을</name>
+	<code>132</code>
+	<gridX>6</gridX>
+	<gridY>11</gridY>
+	<popul>243514</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>양주시-동두천시</name>
+	<code>133</code>
+	<gridX>8</gridX>
+	<gridY>1</gridY>
+	<popul>296916</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>안산시 상록구 갑</name>
+	<code>134</code>
+	<gridX>7</gridX>
+	<gridY>10</gridY>
+	<popul>216148</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>안산시 상록구 을</name>
+	<code>135</code>
+	<gridX>6</gridX>
+	<gridY>10</gridY>
+	<popul>165040</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>안산시 단원구 갑</name>
+	<code>136</code>
+	<gridX>5</gridX>
+	<gridY>9</gridY>
+	<popul>184795</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>안산시 단원구 을</name>
+	<code>137</code>
+	<gridX>5</gridX>
+	<gridY>10</gridY>
+	<popul>149513</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>고양시 덕양구 갑</name>
+	<code>138</code>
+	<gridX>7</gridX>
+	<gridY>1</gridY>
+	<popul>207359</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>고양시 덕양구 을</name>
+	<code>139</code>
+	<gridX>6</gridX>
+	<gridY>1</gridY>
+	<popul>184094</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>고양시 일산동구</name>
+	<code>140</code>
+	<gridX>5</gridX>
+	<gridY>1</gridY>
+	<popul>279964</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>고양시 일산서구</name>
+	<code>141</code>
+	<gridX>4</gridX>
+	<gridY>1</gridY>
+	<popul>292078</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>의왕시-과천시</name>
+	<code>142</code>
+	<gridX>10</gridX>
+	<gridY>10</gridY>
+	<popul>222927</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>구리시</name>
+	<code>143</code>
+	<gridX>11</gridX>
+	<gridY>5</gridY>
+	<popul>194644</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>남양주시 갑</name>
+	<code>144</code>
+	<gridX>11</gridX>
+	<gridY>4</gridY>
+	<popul>290008</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>남양주시 을</name>
+	<code>145</code>
+	<gridX>10</gridX>
+	<gridY>3</gridY>
+	<popul>291552</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>오산시</name>
+	<code>146</code>
+	<gridX>11</gridX>
+	<gridY>11</gridY>
+	<popul>195290</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>화성시 갑</name>
+	<code>147</code>
+	<gridX>3</gridX>
+	<gridY>9</gridY>
+	<popul>239211</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>화성시 을</name>
+	<code>148</code>
+	<gridX>4</gridX>
+	<gridY>10</gridY>
+	<popul>279325</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>시흥시 갑</name>
+	<code>149</code>
+	<gridX>4</gridX>
+	<gridY>8</gridY>
+	<popul>214624</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>시흥시 을</name>
+	<code>150</code>
+	<gridX>4</gridX>
+	<gridY>9</gridY>
+	<popul>186237</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>군포시</name>
+	<code>151</code>
+	<gridX>8</gridX>
+	<gridY>11</gridY>
+	<popul>287462</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>하남시</name>
+	<code>152</code>
+	<gridX>12</gridX>
+	<gridY>7</gridY>
+	<popul>148165</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>파주시 갑</name>
+	<code>153</code>
+	<gridX>3</gridX>
+	<gridY>0</gridY>
+	<popul>195540</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>파주시 을</name>
+	<code>154</code>
+	<gridX>4</gridX>
+	<gridY>0</gridY>
+	<popul>188578</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>이천시</name>
+	<code>155</code>
+	<gridX>13</gridX>
+	<gridY>10</gridY>
+	<popul>204477</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>용인시 갑</name>
+	<code>156</code>
+	<gridX>12</gridX>
+	<gridY>11</gridY>
+	<popul>305278</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>용인시 을</name>
+	<code>157</code>
+	<gridX>12</gridX>
+	<gridY>10</gridY>
+	<popul>306708</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>용인시 병</name>
+	<code>158</code>
+	<gridX>11</gridX>
+	<gridY>10</gridY>
+	<popul>290289</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>안성시</name>
+	<code>159</code>
+	<gridX>13</gridX>
+	<gridY>11</gridY>
+	<popul>181104</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>김포시</name>
+	<code>160</code>
+	<gridX>4</gridX>
+	<gridY>2</gridY>
+	<popul>263331</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>광주시</name>
+	<code>161</code>
+	<gridX>13</gridX>
+	<gridY>8</gridY>
+	<popul>267383</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>포천시-연천군</name>
+	<code>162</code>
+	<gridX>10</gridX>
+	<gridY>1</gridY>
+	<popul>203153</popul>
+</consti>
+<consti>
+	<upperLocal>경기</upperLocal>
+	<name>여주군-양평군-가평군</name>
+	<code>163</code>
+	<gridX>12</gridX>
+	<gridY>6</gridY>
+	<popul>268549</popul>
+</consti>
+<consti>
+	<upperLocal>강원</upperLocal>
+	<name>춘천시</name>
+	<code>164</code>
+	<gridX>12</gridX>
+	<gridY>5</gridY>
+	<popul>273301</popul>
+</consti>
+<consti>
+	<upperLocal>강원</upperLocal>
+	<name>원주시 갑</name>
+	<code>165</code>
+	<gridX>13</gridX>
+	<gridY>7</gridY>
+	<popul>159391</popul>
+</consti>
+<consti>
+	<upperLocal>강원</upperLocal>
+	<name>원주시 을</name>
+	<code>166</code>
+	<gridX>14</gridX>
+	<gridY>8</gridY>
+	<popul>162092</popul>
+</consti>
+<consti>
+	<upperLocal>강원</upperLocal>
+	<name>강릉시</name>
+	<code>167</code>
+	<gridX>14</gridX>
+	<gridY>9</gridY>
+	<popul>217496</popul>
+</consti>
+<consti>
+	<upperLocal>강원</upperLocal>
+	<name>동해시-삼척시</name>
+	<code>168</code>
+	<gridX>14</gridX>
+	<gridY>11</gridY>
+	<popul>167337</popul>
+</consti>
+<consti>
+	<upperLocal>강원</upperLocal>
+	<name>속초시-고성군-양양군</name>
+	<code>169</code>
+	<gridX>12</gridX>
+	<gridY>4</gridY>
+	<popul>141888</popul>
+</consti>
+<consti>
+	<upperLocal>강원</upperLocal>
+	<name>홍천군-횡성군</name>
+	<code>170</code>
+	<gridX>13</gridX>
+	<gridY>6</gridY>
+	<popul>114056</popul>
+</consti>
+<consti>
+	<upperLocal>강원</upperLocal>
+	<name>태백시-영월군-평창군-정선군</name>
+	<code>171</code>
+	<gridX>14</gridX>
+	<gridY>10</gridY>
+	<popul>173721</popul>
+</consti>
+<consti>
+	<upperLocal>강원</upperLocal>
+	<name>철원군-화천군-양구군-인제군</name>
+	<code>172</code>
+	<gridX>11</gridX>
+	<gridY>3</gridY>
+	<popul>127512</popul>
+</consti>
+<consti>
+	<upperLocal>충북</upperLocal>
+	<name>청주시 상당구</name>
+	<code>173</code>
+	<gridX>7</gridX>
+	<gridY>13</gridY>
+	<popul>241449</popul>
+</consti>
+<consti>
+	<upperLocal>충북</upperLocal>
+	<name>청주시 흥덕구 갑</name>
+	<code>174</code>
+	<gridX>6</gridX>
+	<gridY>12</gridY>
+	<popul>212263</popul>
+</consti>
+<consti>
+	<upperLocal>충북</upperLocal>
+	<name>청주시 흥덕구 을</name>
+	<code>175</code>
+	<gridX>6</gridX>
+	<gridY>13</gridY>
+	<popul>209568</popul>
+</consti>
+<consti>
+	<upperLocal>충북</upperLocal>
+	<name>충주시</name>
+	<code>176</code>
+	<gridX>8</gridX>
+	<gridY>12</gridY>
+	<popul>208320</popul>
+</consti>
+<consti>
+	<upperLocal>충북</upperLocal>
+	<name>제천시-단양군</name>
+	<code>177</code>
+	<gridX>9</gridX>
+	<gridY>12</gridY>
+	<popul>169108</popul>
+</consti>
+<consti>
+	<upperLocal>충북</upperLocal>
+	<name>청원군</name>
+	<code>178</code>
+	<gridX>7</gridX>
+	<gridY>14</gridY>
+	<popul>152252</popul>
+</consti>
+<consti>
+	<upperLocal>충북</upperLocal>
+	<name>보은군-옥천군-영동군</name>
+	<code>179</code>
+	<gridX>7</gridX>
+	<gridY>15</gridY>
+	<popul>138719</popul>
+</consti>
+<consti>
+	<upperLocal>충북</upperLocal>
+	<name>증평군-진천군-괴산군-음성군</name>
+	<code>180</code>
+	<gridX>7</gridX>
+	<gridY>12</gridY>
+	<popul>226446</popul>
+</consti>
+<consti>
+	<upperLocal>충남</upperLocal>
+	<name>천안시 갑</name>
+	<code>181</code>
+	<gridX>5</gridX>
+	<gridY>11</gridY>
+	<popul>297574</popul>
+</consti>
+<consti>
+	<upperLocal>충남</upperLocal>
+	<name>천안시 을</name>
+	<code>182</code>
+	<gridX>4</gridX>
+	<gridY>11</gridY>
+	<popul>277678</popul>
+</consti>
+<consti>
+	<upperLocal>충남</upperLocal>
+	<name>공주시</name>
+	<code>183</code>
+	<gridX>3</gridX>
+	<gridY>12</gridY>
+	<popul>118491</popul>
+</consti>
+<consti>
+	<upperLocal>충남</upperLocal>
+	<name>보령시-서천군</name>
+	<code>184</code>
+	<gridX>2</gridX>
+	<gridY>12</gridY>
+	<popul>165309</popul>
+</consti>
+<consti>
+	<upperLocal>충남</upperLocal>
+	<name>아산시</name>
+	<code>185</code>
+	<gridX>3</gridX>
+	<gridY>10</gridY>
+	<popul>276052</popul>
+</consti>
+<consti>
+	<upperLocal>충남</upperLocal>
+	<name>서산시-태안군</name>
+	<code>186</code>
+	<gridX>1</gridX>
+	<gridY>9</gridY>
+	<popul>224214</popul>
+</consti>
+<consti>
+	<upperLocal>충남</upperLocal>
+	<name>논산시-계룡시-금산군</name>
+	<code>187</code>
+	<gridX>4</gridX>
+	<gridY>14</gridY>
+	<popul>225079</popul>
+</consti>
+<consti>
+	<upperLocal>충남</upperLocal>
+	<name>부여군-청양군</name>
+	<code>188</code>
+	<gridX>3</gridX>
+	<gridY>13</gridY>
+	<popul>105900</popul>
+</consti>
+<consti>
+	<upperLocal>충남</upperLocal>
+	<name>홍성군-예산군</name>
+	<code>189</code>
+	<gridX>2</gridX>
+	<gridY>11</gridY>
+	<popul>174282</popul>
+</consti>
+<consti>
+	<upperLocal>충남</upperLocal>
+	<name>당진시</name>
+	<code>190</code>
+	<gridX>2</gridX>
+	<gridY>10</gridY>
+	<popul>151501</popul>
+</consti>
+<consti>
+	<upperLocal>전북</upperLocal>
+	<name>전주시 완산구 갑</name>
+	<code>191</code>
+	<gridX>4</gridX>
+	<gridY>16</gridY>
+	<popul>156978</popul>
+</consti>
+<consti>
+	<upperLocal>전북</upperLocal>
+	<name>전주시 완산구 을</name>
+	<code>192</code>
+	<gridX>4</gridX>
+	<gridY>15</gridY>
+	<popul>206888</popul>
+</consti>
+<consti>
+	<upperLocal>전북</upperLocal>
+	<name>전주시 덕진구</name>
+	<code>193</code>
+	<gridX>5</gridX>
+	<gridY>15</gridY>
+	<popul>284224</popul>
+</consti>
+<consti>
+	<upperLocal>전북</upperLocal>
+	<name>군산시</name>
+	<code>194</code>
+	<gridX>2</gridX>
+	<gridY>13</gridY>
+	<popul>277118</popul>
+</consti>
+<consti>
+	<upperLocal>전북</upperLocal>
+	<name>익산시 갑</name>
+	<code>195</code>
+	<gridX>3</gridX>
+	<gridY>14</gridY>
+	<popul>138469</popul>
+</consti>
+<consti>
+	<upperLocal>전북</upperLocal>
+	<name>익산시 을</name>
+	<code>196</code>
+	<gridX>3</gridX>
+	<gridY>15</gridY>
+	<popul>169707</popul>
+</consti>
+<consti>
+	<upperLocal>전북</upperLocal>
+	<name>정읍시</name>
+	<code>197</code>
+	<gridX>5</gridX>
+	<gridY>16</gridY>
+	<popul>120094</popul>
+</consti>
+<consti>
+	<upperLocal>전북</upperLocal>
+	<name>남원시-순창군</name>
+	<code>198</code>
+	<gridX>6</gridX>
+	<gridY>17</gridY>
+	<popul>116734</popul>
+</consti>
+<consti>
+	<upperLocal>전북</upperLocal>
+	<name>김제시-완주군</name>
+	<code>199</code>
+	<gridX>6</gridX>
+	<gridY>15</gridY>
+	<popul>177887</popul>
+</consti>
+<consti>
+	<upperLocal>전북</upperLocal>
+	<name>진안군-무주군-장수군-임실군</name>
+	<code>200</code>
+	<gridX>6</gridX>
+	<gridY>16</gridY>
+	<popul>106374</popul>
+</consti>
+<consti>
+	<upperLocal>전북</upperLocal>
+	<name>고창군-부안군</name>
+	<code>201</code>
+	<gridX>2</gridX>
+	<gridY>14</gridY>
+	<popul>119004</popul>
+</consti>
+<consti>
+	<upperLocal>전남</upperLocal>
+	<name>목포시</name>
+	<code>202</code>
+	<gridX>0</gridX>
+	<gridY>16</gridY>
+	<popul>244686</popul>
+</consti>
+<consti>
+	<upperLocal>전남</upperLocal>
+	<name>여수시 갑</name>
+	<code>203</code>
+	<gridX>5</gridX>
+	<gridY>19</gridY>
+	<popul>132629</popul>
+</consti>
+<consti>
+	<upperLocal>전남</upperLocal>
+	<name>여수시 을</name>
+	<code>204</code>
+	<gridX>3</gridX>
+	<gridY>18</gridY>
+	<popul>160112</popul>
+</consti>
+<consti>
+	<upperLocal>전남</upperLocal>
+	<name>순천시-곡성군</name>
+	<code>205</code>
+	<gridX>6</gridX>
+	<gridY>18</gridY>
+	<popul>303713</popul>
+</consti>
+<consti>
+	<upperLocal>전남</upperLocal>
+	<name>나주시-화순군</name>
+	<code>206</code>
+	<gridX>1</gridX>
+	<gridY>16</gridY>
+	<popul>157007</popul>
+</consti>
+<consti>
+	<upperLocal>전남</upperLocal>
+	<name>광양시-구례군</name>
+	<code>207</code>
+	<gridX>6</gridX>
+	<gridY>19</gridY>
+	<popul>178210</popul>
+</consti>
+<consti>
+	<upperLocal>전남</upperLocal>
+	<name>고흥군-보성군</name>
+	<code>208</code>
+	<gridX>2</gridX>
+	<gridY>18</gridY>
+	<popul>120092</popul>
+</consti>
+<consti>
+	<upperLocal>전남</upperLocal>
+	<name>장흥군-강진군-영암군</name>
+	<code>209</code>
+	<gridX>1</gridX>
+	<gridY>18</gridY>
+	<popul>142499</popul>
+</consti>
+<consti>
+	<upperLocal>전남</upperLocal>
+	<name>해남군-완도군-진도군</name>
+	<code>210</code>
+	<gridX>1</gridX>
+	<gridY>17</gridY>
+	<popul>165803</popul>
+</consti>
+<consti>
+	<upperLocal>전남</upperLocal>
+	<name>무안군-신안군</name>
+	<code>211</code>
+	<gridX>1</gridX>
+	<gridY>15</gridY>
+	<popul>120412</popul>
+</consti>
+<consti>
+	<upperLocal>전남</upperLocal>
+	<name>담양군-함평군-영광군-장성군</name>
+	<code>212</code>
+	<gridX>2</gridX>
+	<gridY>15</gridY>
+	<popul>186310</popul>
+</consti>
+<consti>
+	<upperLocal>경북</upperLocal>
+	<name>포항시 북구</name>
+	<code>213</code>
+	<gridX>14</gridX>
+	<gridY>13</gridY>
+	<popul>265497</popul>
+</consti>
+<consti>
+	<upperLocal>경북</upperLocal>
+	<name>포항시 남구-울릉군</name>
+	<code>214</code>
+	<gridX>15</gridX>
+	<gridY>14</gridY>
+	<popul>262773</popul>
+</consti>
+<consti>
+	<upperLocal>경북</upperLocal>
+	<name>경주시</name>
+	<code>215</code>
+	<gridX>15</gridX>
+	<gridY>15</gridY>
+	<popul>265093</popul>
+</consti>
+<consti>
+	<upperLocal>경북</upperLocal>
+	<name>김천시</name>
+	<code>216</code>
+	<gridX>8</gridX>
+	<gridY>15</gridY>
+	<popul>135348</popul>
+</consti>
+<consti>
+	<upperLocal>경북</upperLocal>
+	<name>안동시</name>
+	<code>217</code>
+	<gridX>14</gridX>
+	<gridY>12</gridY>
+	<popul>167945</popul>
+</consti>
+<consti>
+	<upperLocal>경북</upperLocal>
+	<name>구미시 갑</name>
+	<code>218</code>
+	<gridX>8</gridX>
+	<gridY>14</gridY>
+	<popul>226478</popul>
+</consti>
+<consti>
+	<upperLocal>경북</upperLocal>
+	<name>구미시 을</name>
+	<code>219</code>
+	<gridX>9</gridX>
+	<gridY>14</gridY>
+	<popul>187991</popul>
+</consti>
+<consti>
+	<upperLocal>경북</upperLocal>
+	<name>영주시</name>
+	<code>220</code>
+	<gridX>10</gridX>
+	<gridY>13</gridY>
+	<popul>113354</popul>
+</consti>
+<consti>
+	<upperLocal>경북</upperLocal>
+	<name>영천시</name>
+	<code>221</code>
+	<gridX>14</gridX>
+	<gridY>14</gridY>
+	<popul>103003</popul>
+</consti>
+<consti>
+	<upperLocal>경북</upperLocal>
+	<name>상주시</name>
+	<code>222</code>
+	<gridX>8</gridX>
+	<gridY>13</gridY>
+	<popul>104616</popul>
+</consti>
+<consti>
+	<upperLocal>경북</upperLocal>
+	<name>문경시-예천군</name>
+	<code>223</code>
+	<gridX>9</gridX>
+	<gridY>13</gridY>
+	<popul>122553</popul>
+</consti>
+<consti>
+	<upperLocal>경북</upperLocal>
+	<name>경산시-청도군</name>
+	<code>224</code>
+	<gridX>14</gridX>
+	<gridY>15</gridY>
+	<popul>288280</popul>
+</consti>
+<consti>
+	<upperLocal>경북</upperLocal>
+	<name>고령군-성주군-칠곡군</name>
+	<code>225</code>
+	<gridX>9</gridX>
+	<gridY>15</gridY>
+	<popul>199473</popul>
+</consti>
+<consti>
+	<upperLocal>경북</upperLocal>
+	<name>군위군-의성군-청송군</name>
+	<code>226</code>
+	<gridX>13</gridX>
+	<gridY>12</gridY>
+	<popul>108345</popul>
+</consti>
+<consti>
+	<upperLocal>경북</upperLocal>
+	<name>영양군-영덕군-봉화군-울진군</name>
+	<code>227</code>
+	<gridX>15</gridX>
+	<gridY>13</gridY>
+	<popul>144846</popul>
+</consti>
+<consti>
+	<upperLocal>경남</upperLocal>
+	<name>창원시 의창구</name>
+	<code>228</code>
+	<gridX>8</gridX>
+	<gridY>16</gridY>
+	<popul>255432</popul>
+</consti>
+<consti>
+	<upperLocal>경남</upperLocal>
+	<name>창원시 성산구</name>
+	<code>229</code>
+	<gridX>9</gridX>
+	<gridY>17</gridY>
+	<popul>247423</popul>
+</consti>
+<consti>
+	<upperLocal>경남</upperLocal>
+	<name>창원시 마산합포구</name>
+	<code>230</code>
+	<gridX>8</gridX>
+	<gridY>18</gridY>
+	<popul>186070</popul>
+</consti>
+<consti>
+	<upperLocal>경남</upperLocal>
+	<name>창원시 마산회원구</name>
+	<code>231</code>
+	<gridX>8</gridX>
+	<gridY>17</gridY>
+	<popul>222706</popul>
+</consti>
+<consti>
+	<upperLocal>경남</upperLocal>
+	<name>창원시 진해구</name>
+	<code>232</code>
+	<gridX>9</gridX>
+	<gridY>19</gridY>
+	<popul>180672</popul>
+</consti>
+<consti>
+	<upperLocal>경남</upperLocal>
+	<name>진주시 갑</name>
+	<code>233</code>
+	<gridX>7</gridX>
+	<gridY>18</gridY>
+	<popul>169963</popul>
+</consti>
+<consti>
+	<upperLocal>경남</upperLocal>
+	<name>진주시 을</name>
+	<code>234</code>
+	<gridX>7</gridX>
+	<gridY>17</gridY>
+	<popul>166410</popul>
+</consti>
+<consti>
+	<upperLocal>경남</upperLocal>
+	<name>통영시-고성군</name>
+	<code>235</code>
+	<gridX>7</gridX>
+	<gridY>19</gridY>
+	<popul>197255</popul>
+</consti>
+<consti>
+	<upperLocal>경남</upperLocal>
+	<name>사천시-남해군-하동군</name>
+	<code>236</code>
+	<gridX>7</gridX>
+	<gridY>16</gridY>
+	<popul>215929</popul>
+</consti>
+<consti>
+	<upperLocal>경남</upperLocal>
+	<name>김해시 갑</name>
+	<code>237</code>
+	<gridX>11</gridX>
+	<gridY>17</gridY>
+	<popul>211365</popul>
+</consti>
+<consti>
+	<upperLocal>경남</upperLocal>
+	<name>김해시 을</name>
+	<code>238</code>
+	<gridX>10</gridX>
+	<gridY>17</gridY>
+	<popul>296905</popul>
+</consti>
+<consti>
+	<upperLocal>경남</upperLocal>
+	<name>밀양시-창녕군</name>
+	<code>239</code>
+	<gridX>11</gridX>
+	<gridY>16</gridY>
+	<popul>171646</popul>
+</consti>
+<consti>
+	<upperLocal>경남</upperLocal>
+	<name>거제시</name>
+	<code>240</code>
+	<gridX>8</gridX>
+	<gridY>19</gridY>
+	<popul>232928</popul>
+</consti>
+<consti>
+	<upperLocal>경남</upperLocal>
+	<name>의령군-함안군-합천군</name>
+	<code>241</code>
+	<gridX>10</gridX>
+	<gridY>16</gridY>
+	<popul>147006</popul>
+</consti>
+<consti>
+	<upperLocal>경남</upperLocal>
+	<name>양산시</name>
+	<code>242</code>
+	<gridX>12</gridX>
+	<gridY>16</gridY>
+	<popul>267367</popul>
+</consti>
+<consti>
+	<upperLocal>경남</upperLocal>
+	<name>산청군-함양군-거창군</name>
+	<code>243</code>
+	<gridX>9</gridX>
+	<gridY>16</gridY>
+	<popul>139906</popul>
+</consti>
+<consti>
+	<upperLocal>제주</upperLocal>
+	<name>제주시 갑</name>
+	<code>244</code>
+	<gridX>2</gridX>
+	<gridY>22</gridY>
+	<popul>230167</popul>
+</consti>
+<consti>
+	<upperLocal>제주</upperLocal>
+	<name>제주시 을</name>
+	<code>245</code>
+	<gridX>3</gridX>
+	<gridY>22</gridY>
+	<popul>195098</popul>
+</consti>
+<consti>
+	<upperLocal>제주</upperLocal>
+	<name>서귀포시</name>
+	<code>246</code>
+	<gridX>3</gridX>
+	<gridY>23</gridY>
+	<popul>153443</popul>
+</consti>
+ 
+</root>
